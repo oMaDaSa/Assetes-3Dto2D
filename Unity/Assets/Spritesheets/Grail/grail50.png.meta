@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 4993ccfdbda9810429895ba172118490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5243468315549799744
+    second: grail50_0
+  - first:
+      213: -5741518447763887193
+    second: grail50_1
+  - first:
+      213: 8316985365219117204
+    second: grail50_2
+  - first:
+      213: -7279647437753625479
+    second: grail50_3
+  - first:
+      213: 4786116339443671362
+    second: grail50_4
+  - first:
+      213: -4798746889807621947
+    second: grail50_5
+  - first:
+      213: -6707182253156360665
+    second: grail50_6
+  - first:
+      213: 5688934398869521950
+    second: grail50_7
+  - first:
+      213: 1570910599843480828
+    second: grail50_8
+  - first:
+      213: -3939260554449968557
+    second: grail50_9
+  - first:
+      213: 6492864286385539717
+    second: grail50_10
+  - first:
+      213: 3412395689653830185
+    second: grail50_11
+  - first:
+      213: -163431449423768198
+    second: grail50_12
+  - first:
+      213: -5094089569180955561
+    second: grail50_13
+  - first:
+      213: 8422584611029269235
+    second: grail50_14
+  - first:
+      213: -6013965610252947017
+    second: grail50_15
+  - first:
+      213: -2660782129343673524
+    second: grail50_16
+  - first:
+      213: -476292984196638601
+    second: grail50_17
+  - first:
+      213: -4153309407275647085
+    second: grail50_18
+  - first:
+      213: -1083891447046639588
+    second: grail50_19
+  - first:
+      213: -8687444222636404683
+    second: grail50_20
+  - first:
+      213: -7349256474102959261
+    second: grail50_21
+  - first:
+      213: 8938512798982706878
+    second: grail50_22
+  - first:
+      213: 3330818396248413183
+    second: grail50_23
+  - first:
+      213: -9124978588850743139
+    second: grail50_24
+  - first:
+      213: -8001252429472378766
+    second: grail50_25
+  - first:
+      213: 8826789241136551584
+    second: grail50_26
+  - first:
+      213: 2781770266815704088
+    second: grail50_27
+  - first:
+      213: 1130870283766728222
+    second: grail50_28
+  - first:
+      213: 3455707184473841123
+    second: grail50_29
+  - first:
+      213: -3522165956080567097
+    second: grail50_30
+  - first:
+      213: 1653649037337533491
+    second: grail50_31
+  - first:
+      213: -4529660356885900447
+    second: grail50_32
+  - first:
+      213: -8925512745512658283
+    second: grail50_33
+  - first:
+      213: -8318541465442046909
+    second: grail50_34
+  - first:
+      213: -6826420960824763509
+    second: grail50_35
+  - first:
+      213: -5859336136067738668
+    second: grail50_36
+  - first:
+      213: -2543351939350422267
+    second: grail50_37
+  - first:
+      213: -7547236368248871988
+    second: grail50_38
+  - first:
+      213: -340746090244730108
+    second: grail50_39
+  - first:
+      213: -950581555577998441
+    second: grail50_40
+  - first:
+      213: 6116743923770136518
+    second: grail50_41
+  - first:
+      213: 8095878721849496904
+    second: grail50_42
+  - first:
+      213: 8559045794355186280
+    second: grail50_43
+  - first:
+      213: -7781194288395316137
+    second: grail50_44
+  - first:
+      213: 49191077482637681
+    second: grail50_45
+  - first:
+      213: 3795318204544865242
+    second: grail50_46
+  - first:
+      213: -771014604136221116
+    second: grail50_47
+  - first:
+      213: 8185915051894203714
+    second: grail50_48
+  - first:
+      213: -6542598840847872042
+    second: grail50_49
+  - first:
+      213: 8065326869762623745
+    second: grail50_50
+  - first:
+      213: -8460240972254028889
+    second: grail50_51
+  - first:
+      213: -4051847200855840924
+    second: grail50_52
+  - first:
+      213: -2641252082528081776
+    second: grail50_53
+  - first:
+      213: 520579175827973716
+    second: grail50_54
+  - first:
+      213: 1320804407381004639
+    second: grail50_55
+  - first:
+      213: 6211204659804134875
+    second: grail50_56
+  - first:
+      213: -139270437850124464
+    second: grail50_57
+  - first:
+      213: -5379992357385225916
+    second: grail50_58
+  - first:
+      213: -8442507592922184622
+    second: grail50_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grail50_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 551
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca63ac19557b37b0800000000000000
+      internalID: -5243468315549799744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 551
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6ea144670250b0800000000000000
+      internalID: -5741518447763887193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 551
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4980208df1edb6370800000000000000
+      internalID: 8316985365219117204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 551
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974dc9e793f79fa90800000000000000
+      internalID: -7279647437753625479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 551
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ab3ae373bb6240800000000000000
+      internalID: 4786116339443671362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 501
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0910ae02d676db0800000000000000
+      internalID: -4798746889807621947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 502
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9fc4e64d4be2a0800000000000000
+      internalID: -6707182253156360665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 502
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e164e1bc1b723fe40800000000000000
+      internalID: 5688934398869521950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 503
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf401951edefcc510800000000000000
+      internalID: 1570910599843480828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 503
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522d46956fe459c0800000000000000
+      internalID: -3939260554449968557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a84d4faa94b1a50800000000000000
+      internalID: 6492864286385539717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 455
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92204e2dcc34b5f20800000000000000
+      internalID: 3412395689653830185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 456
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7518ff66ff5bbdf0800000000000000
+      internalID: -163431449423768198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 457
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c42f6c6882e49b0800000000000000
+      internalID: -5094089569180955561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 458
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa3217341803e470800000000000000
+      internalID: 8422584611029269235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 409
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1357d042a1a8ca0800000000000000
+      internalID: -6013965610252947017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 410
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b43c330c0031bd0800000000000000
+      internalID: -2660782129343673524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 411
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d2fbed0ed369f0800000000000000
+      internalID: -476292984196638601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 411
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ffb09691b7c56c0800000000000000
+      internalID: -4153309407275647085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 412
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1073bbb87e35f0f0800000000000000
+      internalID: -1083891447046639588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 363
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530dcbfe18fff6780800000000000000
+      internalID: -8687444222636404683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 363
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637ad1cc22320a90800000000000000
+      internalID: -7349256474102959261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 363
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb695ab480afb0c70800000000000000
+      internalID: 8938512798982706878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 363
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff319b71fa1793e20800000000000000
+      internalID: 3330818396248413183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 363
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d989184d1509d5180800000000000000
+      internalID: -9124978588850743139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 313
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270511fce47d5f090800000000000000
+      internalID: -8001252429472378766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 313
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61f296c0e0f7a70800000000000000
+      internalID: 8826789241136551584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 313
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2b48b155da9620800000000000000
+      internalID: 2781770266815704088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 313
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1606fe0888a1bf00800000000000000
+      internalID: 1130870283766728222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 312
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed145a006325ff20800000000000000
+      internalID: 3455707184473841123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf7d369b0ce1fc0800000000000000
+      internalID: -3522165956080567097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 262
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9badb901f2f610800000000000000
+      internalID: 1653649037337533491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 261
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16395a297e96321c0800000000000000
+      internalID: -4529660356885900447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 261
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1f758275322480800000000000000
+      internalID: -8925512745512658283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 260
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c28f65c9a9e8c80800000000000000
+      internalID: -8318541465442046909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b52c6dd4ea341a0800000000000000
+      internalID: -6826420960824763509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 210
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3921e04d47faea0800000000000000
+      internalID: -5859336136067738668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 209
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d973ce2e234bcd0800000000000000
+      internalID: -2543351939350422267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 209
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ed929284d24790800000000000000
+      internalID: -7547236368248871988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 208
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031c5c7c3d654bf0800000000000000
+      internalID: -340746090244730108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 158
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933cb19c1bdec2f0800000000000000
+      internalID: -950581555577998441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 157
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71956d03a03e450800000000000000
+      internalID: 6116743923770136518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8459b70cdc65a5070800000000000000
+      internalID: 8095878721849496904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a87dc5dc6d7c670800000000000000
+      internalID: 8559045794355186280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75416ef6505a30490800000000000000
+      internalID: -7781194288395316137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 106
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a87b3603cea000800000000000000
+      internalID: 49191077482637681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 106
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3587f6ccdaba430800000000000000
+      internalID: 3795318204544865242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 106
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44672d37d4ecc45f0800000000000000
+      internalID: -771014604136221116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 105
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456dad6e563a9170800000000000000
+      internalID: 8185915051894203714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 105
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4167b4050435a0800000000000000
+      internalID: -6542598840847872042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 55
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094d9d5e0ccdef60800000000000000
+      internalID: 8065326869762623745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd796f8af279a80800000000000000
+      internalID: -8460240972254028889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 55
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467a3dc3072f4c7c0800000000000000
+      internalID: -4051847200855840924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09827a29933685bd0800000000000000
+      internalID: -2641252082528081776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 55
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45621b49008793700800000000000000
+      internalID: 520579175827973716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5117bf4c90745210800000000000000
+      internalID: 1320804407381004639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd50eecab1a23650800000000000000
+      internalID: 6211204659804134875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fea305646311ef0800000000000000
+      internalID: -139270437850124464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449bcb3947d6655b0800000000000000
+      internalID: -5379992357385225916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail50_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c556131036da80800000000000000
+      internalID: -8442507592922184622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

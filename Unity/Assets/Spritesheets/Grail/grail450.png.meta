@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 7083bcb47abb6bb40931fa3757cbd851
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7492875504005618589
+    second: grail450_0
+  - first:
+      213: -8950230965772999186
+    second: grail450_1
+  - first:
+      213: -2636673370663154416
+    second: grail450_2
+  - first:
+      213: 1517904962673931999
+    second: grail450_3
+  - first:
+      213: -2024535712514073712
+    second: grail450_4
+  - first:
+      213: 718716239613764299
+    second: grail450_5
+  - first:
+      213: 2190853169785124004
+    second: grail450_6
+  - first:
+      213: -4737840849651852445
+    second: grail450_7
+  - first:
+      213: -381371076262283174
+    second: grail450_8
+  - first:
+      213: -4798532389071035137
+    second: grail450_9
+  - first:
+      213: -6167631625634851722
+    second: grail450_10
+  - first:
+      213: 8368295582641438615
+    second: grail450_11
+  - first:
+      213: 5706260182384412264
+    second: grail450_12
+  - first:
+      213: -589296030990268346
+    second: grail450_13
+  - first:
+      213: -9193039160176345426
+    second: grail450_14
+  - first:
+      213: -8224195045714372378
+    second: grail450_15
+  - first:
+      213: 7244204307537541790
+    second: grail450_16
+  - first:
+      213: 2761713914584995394
+    second: grail450_17
+  - first:
+      213: -3659313021985689851
+    second: grail450_18
+  - first:
+      213: -8998629720015194752
+    second: grail450_19
+  - first:
+      213: -905909319004846103
+    second: grail450_20
+  - first:
+      213: 121472006258655091
+    second: grail450_21
+  - first:
+      213: 2520945477067450192
+    second: grail450_22
+  - first:
+      213: -6052083147114485804
+    second: grail450_23
+  - first:
+      213: 3161172334432925348
+    second: grail450_24
+  - first:
+      213: -8626947184878615493
+    second: grail450_25
+  - first:
+      213: 9134422176844575869
+    second: grail450_26
+  - first:
+      213: 8428831987221963555
+    second: grail450_27
+  - first:
+      213: 7405916175257854429
+    second: grail450_28
+  - first:
+      213: 4707445541244399712
+    second: grail450_29
+  - first:
+      213: -6149038544373793399
+    second: grail450_30
+  - first:
+      213: -8410046565919661211
+    second: grail450_31
+  - first:
+      213: 846653374503233078
+    second: grail450_32
+  - first:
+      213: -8264018012354617487
+    second: grail450_33
+  - first:
+      213: 4122473456520343015
+    second: grail450_34
+  - first:
+      213: -4630261452990208675
+    second: grail450_35
+  - first:
+      213: -5906030414081713013
+    second: grail450_36
+  - first:
+      213: -7125809982755040165
+    second: grail450_37
+  - first:
+      213: 286237721413893467
+    second: grail450_38
+  - first:
+      213: -4429410767055653620
+    second: grail450_39
+  - first:
+      213: 2152210820150161882
+    second: grail450_40
+  - first:
+      213: -7451567680483279287
+    second: grail450_41
+  - first:
+      213: -5269077871622833682
+    second: grail450_42
+  - first:
+      213: -5546786211221982075
+    second: grail450_43
+  - first:
+      213: -4727270661853255586
+    second: grail450_44
+  - first:
+      213: 1026063049383269919
+    second: grail450_45
+  - first:
+      213: 4095710602012151804
+    second: grail450_46
+  - first:
+      213: -1792295728617475021
+    second: grail450_47
+  - first:
+      213: 3533554364928707331
+    second: grail450_48
+  - first:
+      213: 1906373637313330683
+    second: grail450_49
+  - first:
+      213: -1867419964167398160
+    second: grail450_50
+  - first:
+      213: 2650600979254519462
+    second: grail450_51
+  - first:
+      213: -8100344108308179290
+    second: grail450_52
+  - first:
+      213: -5208270009693206894
+    second: grail450_53
+  - first:
+      213: -5266026619272285543
+    second: grail450_54
+  - first:
+      213: -9129371554481217157
+    second: grail450_55
+  - first:
+      213: -2672432522073818654
+    second: grail450_56
+  - first:
+      213: 6223183598635831680
+    second: grail450_57
+  - first:
+      213: -7295893034167647022
+    second: grail450_58
+  - first:
+      213: -4779670747327545613
+    second: grail450_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grail450_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4954
+        width: 224
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1b7a629a0cf760800000000000000
+      internalID: 7492875504005618589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4954
+        width: 227
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee526636b546ac380800000000000000
+      internalID: -8950230965772999186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 4954
+        width: 224
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d04e00a87a86bd0800000000000000
+      internalID: -2636673370663154416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_3
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 4954
+        width: 224
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67bf6758ea01510800000000000000
+      internalID: 1517904962673931999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_4
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 4957
+        width: 224
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9184fe7767e3e0800000000000000
+      internalID: -2024535712514073712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4509
+        width: 227
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ab7cac9469f900800000000000000
+      internalID: 718716239613764299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 4511
+        width: 224
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4b41ca959776e10800000000000000
+      internalID: 2190853169785124004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 4517
+        width: 227
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9a2279decf3eb0800000000000000
+      internalID: -4737840849651852445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_8
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4522
+        width: 224
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5837c7d60915baf0800000000000000
+      internalID: -381371076262283174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_9
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 4527
+        width: 225
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e6324730386db0800000000000000
+      internalID: -4798532389071035137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4084
+        width: 224
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d198c6bb286aa0800000000000000
+      internalID: -6167631625634851722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 4092
+        width: 224
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f30dace78222470800000000000000
+      internalID: 8368295582641438615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_12
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 4100
+        width: 221
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668afe1765b03f40800000000000000
+      internalID: 5706260182384412264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_13
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 4108
+        width: 221
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648074dc16662d7f0800000000000000
+      internalID: -589296030990268346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_14
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 4119
+        width: 219
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaefe633793cb6080800000000000000
+      internalID: -9193039160176345426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3678
+        width: 219
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8daa8fd2acddd80800000000000000
+      internalID: -8224195045714372378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3686
+        width: 219
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a312faf65988460800000000000000
+      internalID: 7244204307537541790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 3694
+        width: 216
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24697125c24935620800000000000000
+      internalID: 2761713914584995394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_18
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3702
+        width: 216
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe492c132873dc0800000000000000
+      internalID: -3659313021985689851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_19
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3707
+        width: 216
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b83942f17e1380800000000000000
+      internalID: -8998629720015194752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3262
+        width: 216
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7000a26409d63f0800000000000000
+      internalID: -905909319004846103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3264
+        width: 219
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f7337652e8fa100800000000000000
+      internalID: 121472006258655091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_22
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 3267
+        width: 219
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057abba0e823cf220800000000000000
+      internalID: 2520945477067450192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_23
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3267
+        width: 222
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7ec19617ea20ca0800000000000000
+      internalID: -6052083147114485804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_24
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 3267
+        width: 224
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6baa35d7dbedb20800000000000000
+      internalID: 3161172334432925348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2816
+        width: 227
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34014d2e3de64880800000000000000
+      internalID: -8626947184878615493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_26
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2816
+        width: 230
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d747547d29cf3ce70800000000000000
+      internalID: 9134422176844575869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_27
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2813
+        width: 232
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a0d5d80a39f470800000000000000
+      internalID: 8428831987221963555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_28
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2811
+        width: 235
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1609ee58917c660800000000000000
+      internalID: 7405916175257854429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_29
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2811
+        width: 237
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607e5557c4345140800000000000000
+      internalID: 4707445541244399712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2357
+        width: 237
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d3a6cd50a3aaaa0800000000000000
+      internalID: -6149038544373793399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2355
+        width: 240
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636dd5e433894b80800000000000000
+      internalID: -8410046565919661211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_32
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2349
+        width: 243
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a62322caefbb00800000000000000
+      internalID: 846653374503233078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_33
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2347
+        width: 240
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5c24076f405d80800000000000000
+      internalID: -8264018012354617487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_34
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2341
+        width: 243
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2fd354c7f53930800000000000000
+      internalID: 4122473456520343015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1888
+        width: 242
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a55d9db10ebfb0800000000000000
+      internalID: -4630261452990208675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1883
+        width: 246
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c910041a0990ea0800000000000000
+      internalID: -5906030414081713013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_37
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1880
+        width: 242
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5414f823990c1d90800000000000000
+      internalID: -7125809982755040165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_38
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1875
+        width: 243
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d313ae0bbe8f300800000000000000
+      internalID: 286237721413893467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_39
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1872
+        width: 240
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057b5910629782c0800000000000000
+      internalID: -4429410767055653620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1419
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17dc886503edd10800000000000000
+      internalID: 2152210820150161882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_41
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1413
+        width: 240
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3309bca6b69890800000000000000
+      internalID: -7451567680483279287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_42
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1411
+        width: 235
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9bc00b79970e6b0800000000000000
+      internalID: -5269077871622833682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_43
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1408
+        width: 235
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584341b345bd503b0800000000000000
+      internalID: -5546786211221982075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_44
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1405
+        width: 235
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586c13116c556eb0800000000000000
+      internalID: -4727270661853255586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 952
+        width: 232
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d4a738ee4d3e00800000000000000
+      internalID: 1026063049383269919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_46
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 952
+        width: 229
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff4cbfa713e6d830800000000000000
+      internalID: 4095710602012151804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_47
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 949
+        width: 226
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3343e43e78c7027e0800000000000000
+      internalID: -1792295728617475021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_48
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 947
+        width: 226
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4b1c29f4b90130800000000000000
+      internalID: 3533554364928707331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_49
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 944
+        width: 224
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdfa3509bcc47a10800000000000000
+      internalID: 1906373637313330683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_50
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 493
+        width: 219
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc5455cf679516e0800000000000000
+      internalID: -1867419964167398160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_51
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 493
+        width: 219
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a4c11c83d8c420800000000000000
+      internalID: 2650600979254519462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_52
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 490
+        width: 219
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6dcd173fbc59f80800000000000000
+      internalID: -8100344108308179290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_53
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 490
+        width: 217
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2968ae1550288b7b0800000000000000
+      internalID: -5208270009693206894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_54
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 488
+        width: 216
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992368cb0b05be6b0800000000000000
+      internalID: -5266026619272285543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 37
+        width: 216
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716790d0f4fd4180800000000000000
+      internalID: -9129371554481217157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 37
+        width: 214
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b693c7cc99ead0800000000000000
+      internalID: -2672432522073818654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_57
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 37
+        width: 214
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d9b8d2803d5650800000000000000
+      internalID: 6223183598635831680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_58
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 37
+        width: 214
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4c033d0f7cfba90800000000000000
+      internalID: -7295893034167647022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grail450_59
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 37
+        width: 213
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe373277c23badb0800000000000000
+      internalID: -4779670747327545613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

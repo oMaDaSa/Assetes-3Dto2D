@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 457c1e7e1bbc67c41997d530c729626c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1318002902138425889
+    second: banana150_0
+  - first:
+      213: -3984343906046408286
+    second: banana150_1
+  - first:
+      213: -4570071740673051470
+    second: banana150_2
+  - first:
+      213: 231727364760586573
+    second: banana150_3
+  - first:
+      213: 2259930445839013128
+    second: banana150_4
+  - first:
+      213: 7417541727412936992
+    second: banana150_5
+  - first:
+      213: -6567479997521922577
+    second: banana150_6
+  - first:
+      213: 2589604175823394453
+    second: banana150_7
+  - first:
+      213: -8234889964078940118
+    second: banana150_8
+  - first:
+      213: 6959764609929197732
+    second: banana150_9
+  - first:
+      213: -7906569125876392917
+    second: banana150_10
+  - first:
+      213: 2749975780919873443
+    second: banana150_11
+  - first:
+      213: -9150315837746536282
+    second: banana150_12
+  - first:
+      213: -3749832798203962103
+    second: banana150_13
+  - first:
+      213: 2216321431844866232
+    second: banana150_14
+  - first:
+      213: 2602446583708687395
+    second: banana150_15
+  - first:
+      213: 2616975849566912300
+    second: banana150_16
+  - first:
+      213: 809695261193032577
+    second: banana150_17
+  - first:
+      213: 2393684576353471872
+    second: banana150_18
+  - first:
+      213: -3918523751456582206
+    second: banana150_19
+  - first:
+      213: -6169265405250441598
+    second: banana150_20
+  - first:
+      213: 3436119838551665262
+    second: banana150_21
+  - first:
+      213: -1901490114880579916
+    second: banana150_22
+  - first:
+      213: -1027483800990544388
+    second: banana150_23
+  - first:
+      213: 7238809474750587264
+    second: banana150_24
+  - first:
+      213: 2632300853422622558
+    second: banana150_25
+  - first:
+      213: -4592634726583255845
+    second: banana150_26
+  - first:
+      213: 4018995508333249078
+    second: banana150_27
+  - first:
+      213: 8034175232848695986
+    second: banana150_28
+  - first:
+      213: 1242074751782383334
+    second: banana150_29
+  - first:
+      213: 6452144433979642841
+    second: banana150_30
+  - first:
+      213: 1679995264889230348
+    second: banana150_31
+  - first:
+      213: 1675026449669947570
+    second: banana150_32
+  - first:
+      213: 1135186143573234350
+    second: banana150_33
+  - first:
+      213: -74124266168291658
+    second: banana150_34
+  - first:
+      213: 4592753325894107141
+    second: banana150_35
+  - first:
+      213: 6991540025708257786
+    second: banana150_36
+  - first:
+      213: -5743013024619072989
+    second: banana150_37
+  - first:
+      213: -4801310537823903867
+    second: banana150_38
+  - first:
+      213: 2590907060042671341
+    second: banana150_39
+  - first:
+      213: 1053630622794058032
+    second: banana150_40
+  - first:
+      213: -8965645833046818314
+    second: banana150_41
+  - first:
+      213: -1299792620890606967
+    second: banana150_42
+  - first:
+      213: -6028592069848532045
+    second: banana150_43
+  - first:
+      213: -2341692391074352430
+    second: banana150_44
+  - first:
+      213: -7842111349965676081
+    second: banana150_45
+  - first:
+      213: 5286806304610347606
+    second: banana150_46
+  - first:
+      213: -7200733409535375551
+    second: banana150_47
+  - first:
+      213: -4719089687321516951
+    second: banana150_48
+  - first:
+      213: -2039704977857694437
+    second: banana150_49
+  - first:
+      213: -5952789510040999076
+    second: banana150_50
+  - first:
+      213: -4969627019948592419
+    second: banana150_51
+  - first:
+      213: 4697167587573019219
+    second: banana150_52
+  - first:
+      213: -2747584905027003212
+    second: banana150_53
+  - first:
+      213: 7236178256228666748
+    second: banana150_54
+  - first:
+      213: -1038246914468017941
+    second: banana150_55
+  - first:
+      213: 2007652313429657093
+    second: banana150_56
+  - first:
+      213: 6005549515543081120
+    second: banana150_57
+  - first:
+      213: 9068336880395317962
+    second: banana150_58
+  - first:
+      213: -4404934090470119484
+    second: banana150_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: banana150_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1690
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12215ea08ac7a4210800000000000000
+      internalID: 1318002902138425889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1690
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98c11d354c4b8c0800000000000000
+      internalID: -3984343906046408286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1690
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b12317f7d390c0800000000000000
+      internalID: -4570071740673051470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1690
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ca4d7fc2473300800000000000000
+      internalID: 231727364760586573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1690
+        width: 119
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805135154c2ec5f10800000000000000
+      internalID: 2259930445839013128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1540
+        width: 118
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e519b6e660f660800000000000000
+      internalID: 7417541727412936992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1540
+        width: 119
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f83efcbf9bd4a0800000000000000
+      internalID: -6567479997521922577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1540
+        width: 118
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59652d0174f10f320800000000000000
+      internalID: 2589604175823394453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1540
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2045ae353bc7bd80800000000000000
+      internalID: -8234889964078940118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1540
+        width: 116
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a83a2fc90d069060800000000000000
+      internalID: 6959764609929197732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1390
+        width: 114
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c11145549364290800000000000000
+      internalID: -7906569125876392917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1389
+        width: 110
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af08aa1760e92620800000000000000
+      internalID: 2749975780919873443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1389
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ac7cd93c830180800000000000000
+      internalID: -9150315837746536282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1389
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d91ffffeae5fbc0800000000000000
+      internalID: -3749832798203962103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1389
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c2358994f1ce10800000000000000
+      internalID: 2216321431844866232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1238
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c92e8216fbd1420800000000000000
+      internalID: 2602446583708687395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1238
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f363b7bad515420800000000000000
+      internalID: 2616975849566912300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1238
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1835ab3dc8d9c3b00800000000000000
+      internalID: 809695261193032577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1237
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d41ed9073183120800000000000000
+      internalID: 2393684576353471872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1237
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5df76c86b9e99c0800000000000000
+      internalID: -3918523751456582206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1087
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee0f2dccd526aa0800000000000000
+      internalID: -6169265405250441598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1087
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6b8ea9cc8faf20800000000000000
+      internalID: 3436119838551665262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1087
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b650a6a0dc8c95e0800000000000000
+      internalID: -1901490114880579916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1087
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8d754de4adb1f0800000000000000
+      internalID: -1027483800990544388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1087
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ad3b4dda657460800000000000000
+      internalID: 7238809474750587264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 937
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57863efdafc78420800000000000000
+      internalID: 2632300853422622558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 937
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcb1ea8c0fa340c0800000000000000
+      internalID: -4592634726583255845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 937
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632081c0f1756c730800000000000000
+      internalID: 4018995508333249078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 937
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b21031becf1f7f60800000000000000
+      internalID: 8034175232848695986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_29
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 938
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee687ce76cbc3110800000000000000
+      internalID: 1242074751782383334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 788
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ded28d2f9a8950800000000000000
+      internalID: 6452144433979642841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 788
+        width: 117
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049f0cdaca805710800000000000000
+      internalID: 1679995264889230348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 788
+        width: 120
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b006f96ea3ee3710800000000000000
+      internalID: 1675026449669947570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 788
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d0a978cdf0cf00800000000000000
+      internalID: 1135186143573234350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 788
+        width: 118
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6dc56f58a8fef0800000000000000
+      internalID: -74124266168291658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50089e201dcbcbf30800000000000000
+      internalID: 4592753325894107141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 639
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af124415c90f60160800000000000000
+      internalID: 6991540025708257786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 639
+        width: 109
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3227327f418bc40b0800000000000000
+      internalID: -5743013024619072989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 639
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f9aa811815e5db0800000000000000
+      internalID: -4801310537823903867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_39
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 639
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de425ef6e30c4f320800000000000000
+      internalID: 2590907060042671341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 489
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0390d14187f3f9e00800000000000000
+      internalID: 1053630622794058032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 489
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1884bed90a39380800000000000000
+      internalID: -8965645833046818314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 489
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98234267f7536fde0800000000000000
+      internalID: -1299792620890606967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_43
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 490
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf0fc0473265ca0800000000000000
+      internalID: -6028592069848532045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_44
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 490
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d237c85d23a08fd0800000000000000
+      internalID: -2341692391074352430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 340
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ac38c6493b2390800000000000000
+      internalID: -7842111349965676081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 340
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6896c2528e5940800000000000000
+      internalID: 5286806304610347606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 340
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474b5a7d1bd11c90800000000000000
+      internalID: -7200733409535375551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_48
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 340
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964edf3aeec628eb0800000000000000
+      internalID: -4719089687321516951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_49
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 340
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153234212381b3e0800000000000000
+      internalID: -2039704977857694437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 190
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ba557da71736da0800000000000000
+      internalID: -5952789510040999076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 190
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f7c93e86580bb0800000000000000
+      internalID: -4969627019948592419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_52
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 190
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b4c3c801bf2140800000000000000
+      internalID: 4697167587573019219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 190
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd3a1161e9ed9d0800000000000000
+      internalID: -2747584905027003212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_54
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 190
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4aedf8c11c6460800000000000000
+      internalID: 7236178256228666748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 116
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80df1aee76791f0800000000000000
+      internalID: -1038246914468017941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 40
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506477e542d9cdb10800000000000000
+      internalID: 2007652313429657093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 40
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f6f2377ff75350800000000000000
+      internalID: 6005549515543081120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_58
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 40
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2798bb85439dd70800000000000000
+      internalID: 9068336880395317962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banana150_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 40
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7258678c78ed2c0800000000000000
+      internalID: -4404934090470119484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

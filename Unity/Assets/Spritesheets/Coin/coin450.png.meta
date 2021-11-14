@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: be635527f4a233c4fb0abe5432663f0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7895649764790264196
+    second: coin450_0
+  - first:
+      213: -6074735849148666362
+    second: coin450_1
+  - first:
+      213: -2465925282193440536
+    second: coin450_2
+  - first:
+      213: -6964981299083816495
+    second: coin450_3
+  - first:
+      213: -7493036430194804360
+    second: coin450_4
+  - first:
+      213: 2721538206129811599
+    second: coin450_5
+  - first:
+      213: -6159885320738998522
+    second: coin450_6
+  - first:
+      213: -3916947392761197335
+    second: coin450_7
+  - first:
+      213: 5557505252411271324
+    second: coin450_8
+  - first:
+      213: 2824407448201865453
+    second: coin450_9
+  - first:
+      213: -1064459061039549303
+    second: coin450_10
+  - first:
+      213: 5696522232090800659
+    second: coin450_11
+  - first:
+      213: 7413609587656357097
+    second: coin450_12
+  - first:
+      213: -5142659661074599513
+    second: coin450_13
+  - first:
+      213: -741522262486018320
+    second: coin450_14
+  - first:
+      213: 4369338537748986069
+    second: coin450_15
+  - first:
+      213: 1875462814376255640
+    second: coin450_16
+  - first:
+      213: -8841803607459349928
+    second: coin450_17
+  - first:
+      213: 5602145213793687266
+    second: coin450_18
+  - first:
+      213: 3613858282335236219
+    second: coin450_19
+  - first:
+      213: 1909553516928143213
+    second: coin450_20
+  - first:
+      213: -2667454744897235860
+    second: coin450_21
+  - first:
+      213: -8400267483639961287
+    second: coin450_22
+  - first:
+      213: -6702285464306441390
+    second: coin450_23
+  - first:
+      213: -6781110818655482504
+    second: coin450_24
+  - first:
+      213: 6215341847270226571
+    second: coin450_25
+  - first:
+      213: 5653926977999149662
+    second: coin450_26
+  - first:
+      213: -7991147957145178498
+    second: coin450_27
+  - first:
+      213: 7169345971836605758
+    second: coin450_28
+  - first:
+      213: -1994161482157874945
+    second: coin450_29
+  - first:
+      213: 4614120285514469876
+    second: coin450_30
+  - first:
+      213: 5031952085726367716
+    second: coin450_31
+  - first:
+      213: -2561749935231456021
+    second: coin450_32
+  - first:
+      213: 4996813116076328058
+    second: coin450_33
+  - first:
+      213: -6626213913354436938
+    second: coin450_34
+  - first:
+      213: -2893098892186636774
+    second: coin450_35
+  - first:
+      213: -924340334639121365
+    second: coin450_36
+  - first:
+      213: 3994451947574670627
+    second: coin450_37
+  - first:
+      213: 7150623600347070982
+    second: coin450_38
+  - first:
+      213: -4939339847876728206
+    second: coin450_39
+  - first:
+      213: -5571933242048516261
+    second: coin450_40
+  - first:
+      213: -7540550910663801339
+    second: coin450_41
+  - first:
+      213: -258505421686494984
+    second: coin450_42
+  - first:
+      213: 9113777814128158113
+    second: coin450_43
+  - first:
+      213: 3219502247114838809
+    second: coin450_44
+  - first:
+      213: -3438973479576011113
+    second: coin450_45
+  - first:
+      213: 3883494215434158253
+    second: coin450_46
+  - first:
+      213: -1194225544296632891
+    second: coin450_47
+  - first:
+      213: 4241591932061803361
+    second: coin450_48
+  - first:
+      213: -8192335994350605139
+    second: coin450_49
+  - first:
+      213: 2699736367276373405
+    second: coin450_50
+  - first:
+      213: 6111449193552593706
+    second: coin450_51
+  - first:
+      213: 1447353707107053525
+    second: coin450_52
+  - first:
+      213: 2346589066100423407
+    second: coin450_53
+  - first:
+      213: -2075411293590100377
+    second: coin450_54
+  - first:
+      213: 3581922257815947361
+    second: coin450_55
+  - first:
+      213: 8571936051474242101
+    second: coin450_56
+  - first:
+      213: 4725277965534723710
+    second: coin450_57
+  - first:
+      213: -8783147006288776256
+    second: coin450_58
+  - first:
+      213: -7240034631559057966
+    second: coin450_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coin450_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5026
+        width: 299
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e97c23f540d6290800000000000000
+      internalID: -7895649764790264196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 5026
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea9273ee332bba0800000000000000
+      internalID: -6074735849148666362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 5026
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08438550647cdd0800000000000000
+      internalID: -2465925282193440536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_3
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 5026
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ded8196a675f90800000000000000
+      internalID: -6964981299083816495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_4
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 5026
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797d290113630890800000000000000
+      internalID: -7493036430194804360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4575
+        width: 295
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8075034498d4c520800000000000000
+      internalID: 2721538206129811599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4575
+        width: 293
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077530ffe0b38aa0800000000000000
+      internalID: -6159885320738998522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 4575
+        width: 287
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8392691534a9c0800000000000000
+      internalID: -3916947392761197335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4577
+        width: 285
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9867570599302d40800000000000000
+      internalID: 5557505252411271324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_9
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4575
+        width: 279
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de82a0b1c9f423720800000000000000
+      internalID: 2824407448201865453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4126
+        width: 269
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984baccaf184a31f0800000000000000
+      internalID: -1064459061039549303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4124
+        width: 259
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31233e2e9cc1e0f40800000000000000
+      internalID: 5696522232090800659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_12
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 4124
+        width: 240
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ffa714ae62e660800000000000000
+      internalID: 7413609587656357097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 4124
+        width: 219
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1fae4094a91a8b0800000000000000
+      internalID: -5142659661074599513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_14
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 4124
+        width: 193
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61a775e6595b5f0800000000000000
+      internalID: -741522262486018320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3676
+        width: 160
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f3f5104203ac30800000000000000
+      internalID: 4369338537748986069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3676
+        width: 122
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e9583e7bf60a10800000000000000
+      internalID: 1875462814376255640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_17
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 3676
+        width: 77
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3e93077a9b4580800000000000000
+      internalID: -8841803607459349928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_18
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3676
+        width: 58
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d358f361debd40800000000000000
+      internalID: 5602145213793687266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_19
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3676
+        width: 103
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f133f5f0072230800000000000000
+      internalID: 3613858282335236219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3225
+        width: 145
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f89107ec8108a10800000000000000
+      internalID: 1909553516928143213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3225
+        width: 180
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6458f3da0c4bfad0800000000000000
+      internalID: -2667454744897235860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_22
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 3225
+        width: 211
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939206bea314c6b80800000000000000
+      internalID: -8400267483639961287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_23
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3225
+        width: 237
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25320c461e2bcf2a0800000000000000
+      internalID: -6702285464306441390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_24
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3225
+        width: 256
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d4b7763a7a4e1a0800000000000000
+      internalID: -6781110818655482504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2776
+        width: 272
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a7924da74514650800000000000000
+      internalID: 6215341847270226571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_26
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2776
+        width: 280
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a13a571a8c67e40800000000000000
+      internalID: 5653926977999149662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_27
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2776
+        width: 287
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee5ca954db91190800000000000000
+      internalID: -7991147957145178498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_28
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2776
+        width: 293
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d2333d22ae7360800000000000000
+      internalID: 7169345971836605758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_29
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2776
+        width: 299
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a63f82b05354e0800000000000000
+      internalID: -1994161482157874945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2326
+        width: 296
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19309f3f5a80040800000000000000
+      internalID: 4614120285514469876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2326
+        width: 293
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef8184f2c515d540800000000000000
+      internalID: 5031952085726367716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_32
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2326
+        width: 285
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2623b106d27cd0800000000000000
+      internalID: -2561749935231456021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_33
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2326
+        width: 277
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740eb80e0f385540800000000000000
+      internalID: 4996813116076328058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_34
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 2326
+        width: 267
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef1c09d85fa04a0800000000000000
+      internalID: -6626213913354436938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1875
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea327c2e5a9d7d0800000000000000
+      internalID: -2893098892186636774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1875
+        width: 227
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf44eec551c23f0800000000000000
+      internalID: -924340334639121365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_37
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1875
+        width: 203
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253e8ff1e42f6730800000000000000
+      internalID: 3994451947574670627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_38
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1875
+        width: 169
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024635674e1c3360800000000000000
+      internalID: 7150623600347070982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_39
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1875
+        width: 129
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a206ef390f37bb0800000000000000
+      internalID: -4939339847876728206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1426
+        width: 87
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe18bdc348ca2b0800000000000000
+      internalID: -5571933242048516261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1426
+        width: 58
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c227f5e49a5790800000000000000
+      internalID: -7540550910663801339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_42
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1426
+        width: 92
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82dd740ba996cf0800000000000000
+      internalID: -258505421686494984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_43
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1424
+        width: 132
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e1f492a4aa7e70800000000000000
+      internalID: 9113777814128158113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1424
+        width: 169
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9131ad07c38fdac20800000000000000
+      internalID: 3219502247114838809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 973
+        width: 200
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef1ed37df4640d0800000000000000
+      internalID: -3438973479576011113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_46
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 976
+        width: 224
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0cc3ec961f4e530800000000000000
+      internalID: 3883494215434158253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_47
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 976
+        width: 245
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd608ad1324d6fe0800000000000000
+      internalID: -1194225544296632891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_48
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 976
+        width: 261
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e4b8a3692dda30800000000000000
+      internalID: 4241591932061803361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_49
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 976
+        width: 272
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace51861d9fe4e80800000000000000
+      internalID: -8192335994350605139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 525
+        width: 279
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9536b61ce3677520800000000000000
+      internalID: 2699736367276373405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 527
+        width: 285
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cc8469aa30d450800000000000000
+      internalID: 6111449193552593706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_52
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 525
+        width: 287
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe5783788061410800000000000000
+      internalID: 1447353707107053525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_53
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 525
+        width: 293
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3bb6a252c09020800000000000000
+      internalID: 2346589066100423407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_54
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 525
+        width: 298
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666abaac68a233e0800000000000000
+      internalID: -2075411293590100377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1684f2ec05b85b130800000000000000
+      internalID: 3581922257815947361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_56
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 76
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9c793c62a5f670800000000000000
+      internalID: 8571936051474242101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_57
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 76
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e7da8264f839140800000000000000
+      internalID: 4725277965534723710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_58
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 76
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33f18355efb1680800000000000000
+      internalID: -8783147006288776256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin450_59
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 76
+        width: 299
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd6568acda368b90800000000000000
+      internalID: -7240034631559057966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
